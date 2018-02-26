@@ -5,9 +5,9 @@ Keras Documentation can be found [here](https://keras.io/#keras-the-python-deep-
 
 ## Table of Contents
 * Artificial Neural Network (ANN)
-   * [Problem explanation + details on how created]()
-   * [Coding example]()
+   * [Problem explanation + details on how created](https://github.com/Achronus/Keras-Examples/wiki/Artificial-Neural-Network-(ANN))
+   * [Coding example](https://github.com/Achronus/Keras-Examples/blob/master/deep-learning/ann/ann-keras.py)
 
 * Convolutional Neural Network (CNN)
-   * [Problem explanation + details on how created]()
-   * [Coding example]()
+   * [Problem explanation + details on how created](https://github.com/Achronus/Keras-Examples/wiki/Convolutional-Neural-Network-(CNN))
+   * [Coding example](https://github.com/Achronus/Keras-Examples/blob/master/deep-learning/cnn/cnn-keras.py)
