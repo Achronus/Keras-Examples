@@ -11,3 +11,7 @@ Keras Documentation can be found [here](https://keras.io/#keras-the-python-deep-
 * Convolutional Neural Network (CNN)
    * [Example problem explanation + details on how created](https://github.com/Achronus/Keras-Examples/wiki/Convolutional-Neural-Network-(CNN))
    * [Coding example](https://github.com/Achronus/Keras-Examples/blob/master/deep-learning/cnn/cnn-keras.py)
+
+* Recurrent Neural Network (RNN)
+  * [Example problem explanation + details on how created](https://github.com/Achronus/Keras-Examples/wiki/Recurrent-Neural-Network-(RNN))
+  * [Coding example](https://github.com/Achronus/Keras-Examples/blob/master/deep-learning/rnn/rnn-keras.py)
